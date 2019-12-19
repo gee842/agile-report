@@ -1,4 +1,4 @@
-##AGILE Coursework - 5 weeks in review
+## AGILE Coursework - 5 weeks in review
 
 This file was written in VIM on a Raspberry Pi- No images will be included in this document.
 Apologies for any formatting issues you may encounter as a result- My Laptop won't boot
